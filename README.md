@@ -1,5 +1,5 @@
 # Highlights
-Most Prominent Github Projects:
+Most Prominent Projects:
 
 ## 1:
    https://github.com/jethpson/WeatherAppProject
