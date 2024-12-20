@@ -6,7 +6,7 @@ Most Prominent Projects:
 https://github.com/CS4080-04-CPP/Group_Project-Evaluation_of_Modern_Languages
 
 ## 2: Android Development | Weather Application
-https://github.com/user-attachments/assets/170521bf-1d76-43b7-a20a-6377d4eb2c50
+https://github.com/user-attachments/assets/6de06c3e-ca39-48a4-9268-48f91673ad7c
 https://github.com/jethpson/WeatherAppProject
 
 ## 3: SQL Data Management | Instrument Store System
