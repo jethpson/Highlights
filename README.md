@@ -23,6 +23,7 @@ https://github.com/jethpson/SchoolProjects/tree/main/Java-%20Alpha%20Beta%20Prun
    
 ## 5: Data Structures | Airport Shortest Path (Directed Graph)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u0FSrr0EhGE/0.jpg)](https://www.youtube.com/watch?v=u0FSrr0EhGE)
 
 https://github.com/jethpson/SchoolProjects/tree/main/Java-%20Directed%20Graph
 
