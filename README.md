@@ -9,6 +9,7 @@ https://github.com/CS4080-04-CPP/Group_Project-Evaluation_of_Modern_Languages
 
 ## 2: Android Development | Weather Application
 #Below is a video demonstrating the project.
+#
 [![IMAGE ALT TEXT](https://github.com/user-attachments/assets/c957fba3-9eba-4f13-a6bb-8f21871ae04b)](https://drive.google.com/file/d/1N1AlOhPdjj5R3x2OsMUAv3ip_SE0kmaG/view?usp=sharing)
 
 https://github.com/jethpson/WeatherAppProject
@@ -26,6 +27,7 @@ https://github.com/jethpson/SchoolProjects/tree/main/Java-%20Alpha%20Beta%20Prun
    
 ## 5: Data Structures | Airport Shortest Path (Directed Graph)
 #Below is a video demonstrating the project.
+#
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u0FSrr0EhGE/0.jpg)](https://www.youtube.com/watch?v=u0FSrr0EhGE)
 
 https://github.com/jethpson/SchoolProjects/tree/main/Java-%20Directed%20Graph
